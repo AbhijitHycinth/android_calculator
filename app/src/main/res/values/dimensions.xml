@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="number_btn_width">40dp</dimen>
+    <dimen name="number_btn_width">50dp</dimen>
+    <dimen name="operation_btn_width">100dp</dimen>
 </resources>
